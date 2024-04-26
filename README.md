@@ -38,33 +38,6 @@ I have developed a user-friendly web application using Flask, leveraging the pow
 
 In my analysis, I have conducted various visualizations using matplotlib and seaborn libraries, providing deeper insights into the dataset.
 
-## Project Structure
-
-DIABETES_PREDICTION_PROJECT/
-│
-├── .ipynb_checkpoints/
-│   ├── Diabetes_Prediction-checkpoint.ipynb
-│   └── ...
-│
-├── static/css/
-│   └── styles.css
-│
-├── templates/
-│   └── home.html
-│
-├── app.py
-├── dia_lr.pkl
-├── dia_svm.pkl
-├── diabetes.csv
-├── EDA.ipynb
-├── KNN Approach.ipynb
-├── Linear Regression Approach.ipynb
-├── Logistic Regression Approach.ipynb
-├── requirements.txt
-├── SVM Approach.ipynb
-└── Using pkl file for prediction.ipynb
-
-
 ## Getting Started
 
 1. Clone this repository to your local machine.
