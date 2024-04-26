@@ -34,7 +34,7 @@ In my project, I utilized various preprocessing techniques to enhance model perf
 
 I have developed a user-friendly web application using Flask, leveraging the power of Logistic Regression for seamless diabetes prediction.
 
-![Home Page](Images/Home Page.jpeg)
+(Images/Home Page.jpeg)
 
 
 ## Exploratory Data Analysis (EDA)
