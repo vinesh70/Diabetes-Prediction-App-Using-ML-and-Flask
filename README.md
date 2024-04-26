@@ -38,11 +38,32 @@ I have developed a user-friendly web application using Flask, leveraging the pow
 
 In my analysis, I have conducted various visualizations using matplotlib and seaborn libraries, providing deeper insights into the dataset.
 
-## Repository Structure
+## Project Structure
 
-- *Code*: Contains Python scripts for model training and web application development.
-- *Notebooks*: Includes Jupyter notebooks for exploratory data analysis and model evaluation.
-- *WebApp*: Houses files related to the Flask web application.
+DIABETES_PREDICTION_PROJECT/
+│
+├── .ipynb_checkpoints/
+│   ├── Diabetes_Prediction-checkpoint.ipynb
+│   └── ...
+│
+├── static/css/
+│   └── styles.css
+│
+├── templates/
+│   └── home.html
+│
+├── app.py
+├── dia_lr.pkl
+├── dia_svm.pkl
+├── diabetes.csv
+├── EDA.ipynb
+├── KNN Approach.ipynb
+├── Linear Regression Approach.ipynb
+├── Logistic Regression Approach.ipynb
+├── requirements.txt
+├── SVM Approach.ipynb
+└── Using pkl file for prediction.ipynb
+
 
 ## Getting Started
 
